@@ -17,7 +17,7 @@ function SignIn() {
             <div className='px-4 items-center grid place-items-center h-screen gap-8'>
                 <Head>
                     <title>SignIn with Google</title>
-                    <link rel="icon" href="/favicon.svg" />
+                    <link rel="icon" href="/google.png" />
                 </Head>
                 <div className='flex flex-col items-center justify-center gap-8'>
                     <div className='inset-0 flex items-center justify-center'>
@@ -50,7 +50,7 @@ function SignIn() {
             <div className='px-4 items-center grid place-items-center h-screen gap-8'>
                 <Head>
                     <title>SignIn with Google</title>
-                    <link rel="icon" href="/favicon.svg" />
+                    <link rel="icon" href="/google.png" />
                 </Head>
                 <div className='inset-0 flex items-center justify-center my-12'>
                     <div className='flex flex-col items-center justify-center py-8 px-6 w-full border rounded-3xl'>
